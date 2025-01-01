@@ -1,8 +1,8 @@
 
-## headoff-til-content
+## headofftil-content
 
-> - headofftil 관련 컨텐츠파일 공유 저장소
-> - 해당 repository 에 컨텐츠파일(이미지 파일, 영상파일 등) 을 올리면 특정 URL 주소로 접근가능
+> headofftil 관련 컨텐츠파일 공유 저장소  
+> 해당 repository 에 컨텐츠파일(이미지 파일, 영상파일 등) 을 올리면 특정 URL 주소로 접근가능
 ---
 
 ### 사용방법
